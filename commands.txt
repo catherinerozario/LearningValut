@@ -1,0 +1,7 @@
+Git
+---
+
+1. To initialize a local directory as a Git repository
+   
+
+    git init
