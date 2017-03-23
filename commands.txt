@@ -3,7 +3,6 @@ Git
 
 1. To initialize a local directory as a Git repository
    
-
     git init
 
 2. to add a new file to repository 
@@ -12,4 +11,12 @@ Git
 
 3. to commit a change with a message 
 
-    git commit -am "<message>"     
+    git commit -am "<message>"    
+
+4. how to push local changes to remote for your master branch
+
+     git push origin master
+  
+5. to list earlier commits
+
+     git log 
