@@ -5,3 +5,11 @@ Git
    
 
     git init
+
+2. to add a new file to repository 
+
+    git add <file name>
+
+3. to commit a change with a message 
+
+    git commit -am "<message>"     
